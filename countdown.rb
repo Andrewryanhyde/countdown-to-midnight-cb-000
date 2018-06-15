@@ -17,4 +17,3 @@ def countdown(i)
   end
 
 end
-
