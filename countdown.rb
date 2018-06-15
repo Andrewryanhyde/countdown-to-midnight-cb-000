@@ -1,7 +1,7 @@
 #write your code here
 def countdown_with_sleep(i)
   sleep 1
-end
+
 
 def countdown(i)
 
@@ -15,4 +15,5 @@ def countdown(i)
     return "HAPPY NEW YEAR!"
   end
 
+end
 end
