@@ -7,5 +7,5 @@ def countdown(i)
   end
 
   if i == 0
-    puts "Happy New Year!"
+    puts "HAPPY NEW YEAR!s"
 end
