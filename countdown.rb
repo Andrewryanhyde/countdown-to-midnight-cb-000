@@ -5,7 +5,7 @@ def countdown(i)
   while i > 0 do
     puts "#{i} SECOND(S)!"
     i -= 1
-    countdown_with_sleep(i)
+
   end
 
   if i < 1
