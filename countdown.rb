@@ -13,6 +13,6 @@ def countdown(i)
 
 end
 
-def countdown_with_sleep
+def countdown_with_sleep(i)
   sleep(1.second)
 end
